@@ -3,6 +3,9 @@ About Me
 
 Skills
 Languages: Java, Python, C
+
 Web Development: HTML, CSS, JavaScript, React
+
 Tools & Technologies: Git
+
 Others: Problem-solving, Teamwork, Critical Thinking
